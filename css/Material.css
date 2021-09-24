@@ -7001,7 +7001,6 @@ input[type=range]:focus::-ms-fill-upper {
 }
 
 .side-nav {
-    position: fixed;
     width: 300px;
     left: 0;
     top: 0;
